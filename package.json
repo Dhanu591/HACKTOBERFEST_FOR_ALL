@@ -1,0 +1,23 @@
+{
+  "name": "hacktoberfest_for_all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanu591/HACKTOBERFEST_FOR_ALL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhanu591/HACKTOBERFEST_FOR_ALL/issues"
+  },
+  "homepage": "https://github.com/Dhanu591/HACKTOBERFEST_FOR_ALL#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
